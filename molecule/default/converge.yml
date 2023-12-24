@@ -29,8 +29,8 @@
         vacuum: true
         max-requests: 1000
 
-  roles:
-    - role: molecule_example
+#  roles:
+#    - role: molecule_example
     - role: cchurch.django
     - role: cchurch.uwsgi
 
